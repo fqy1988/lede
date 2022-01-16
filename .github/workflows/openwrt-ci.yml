@@ -165,7 +165,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-xlnetacc is not set
           CONFIG_PACKAGE_luci-app-zerotier is not set
           CONFIG_PACKAGE_luci-app-vsftpd is not set
-          CONFIG_DEFAULT_luci-app-ssr-plus=y
           EOF
 
           # LuCI主题:
